@@ -1,0 +1,1783 @@
+{
+  "examInfo": {
+    "title": "TOEFL Practice Test",
+    "code": "753",
+    "source": "sigitclasroom@gmail.com",
+    "totalQuestions": 140
+  },
+  "sections": [
+    {
+      "name": "Listening Comprehension",
+      "timeLimit": "35 minutes",
+      "totalQuestions": 50,
+      "parts": [
+        {
+          "name": "Part A",
+          "description": "Short conversations between two people, one question each.",
+          "audioUrl": "https://www.youtube.com/watch?v=F4Zslsm8x38",
+          "audioUrlDrive": "https://drive.google.com/file/d/10lDMCVfJ3eAjfPXQE5n2XbsIM2zbw4Ro/view?usp=sharing",
+          "questions": [
+            {
+              "id": 1,
+              "type": "listening-single",
+              "transcript": "Man: If your head is hurting you so much, perhaps you should see your doctor right away. Woman: I don't really want to, but I guess I don't have much choice.",
+              "question": "What will the man probably do next?",
+              "options": [
+                "A. Choose a new doctor",
+                "B. Cure the pain himself",
+                "C. Make an appointment with his doctor",
+                "D. Ask his doctor about the right way to run"
+              ],
+              "correctAnswer": "C",
+              "explanation": "The woman says she doesn't have much choice but to see her doctor, implying she will make an appointment.",
+              "userAnswer": null
+            },
+            {
+              "id": 2,
+              "type": "listening-single",
+              "transcript": "Woman: I need to send this letter now because it's due tomorrow. Man: Then you'd better get to the post office quickly because it closes at four o'clock.",
+              "question": "What can be inferred from the conversation?",
+              "options": [
+                "A. It is almost four o'clock.",
+                "B. The man doesn't really need the postcard.",
+                "C. The post office is very far away.",
+                "D. It's better to go after four o'clock."
+              ],
+              "correctAnswer": "A",
+              "explanation": "The man says she'd better go 'quickly' because it closes at four, implying it's almost four o'clock.",
+              "userAnswer": null
+            },
+            {
+              "id": 3,
+              "type": "listening-single",
+              "transcript": "Woman: Do you know how I can find the journal article that we're supposed to read for tomorrow's lecture? Man: The professor copied it and put it under reserve in the library.",
+              "question": "What does the man mean?",
+              "options": [
+                "A. He has reservations about the information in the article",
+                "B. The material was placed on reserve.",
+                "C. The woman must ask for a copy to the professor directly.",
+                "D. The woman should check it on a number of journals in the library."
+              ],
+              "correctAnswer": "B",
+              "explanation": "The man literally says the professor 'put it under reserve in the library.'",
+              "userAnswer": null
+            },
+            {
+              "id": 4,
+              "type": "listening-single",
+              "transcript": "Woman: I really think you should try to be a little calmer. Man: If I were any calmer, I'd be asleep.",
+              "question": "What does the man mean?",
+              "options": [
+                "A. He needs to sleep.",
+                "B. He hopes the woman will help him to sleep.",
+                "C. He is extremely in serenity.",
+                "D. The woman just has to calm him down."
+              ],
+              "correctAnswer": "C",
+              "explanation": "The man uses hyperbole — he says if he were any calmer he'd be asleep, meaning he's already very calm (in serenity).",
+              "userAnswer": null
+            },
+            {
+              "id": 5,
+              "type": "listening-single",
+              "transcript": "Woman: Are you going to go to the ball game? Man: You bet.",
+              "question": "What does the man mean?",
+              "options": [
+                "A. He will place a wager on the game",
+                "B. He likes to gamble",
+                "C. He will definitely go to the game",
+                "D. He does not like games"
+              ],
+              "correctAnswer": "C",
+              "explanation": "'You bet' is an idiom meaning 'absolutely' or 'definitely yes.'",
+              "userAnswer": null
+            },
+            {
+              "id": 6,
+              "type": "listening-single",
+              "transcript": "Woman: Jane said that you were rather rude. Man: It's unfair of her to say that about me.",
+              "question": "What does the man mean?",
+              "options": [
+                "A. Jane said unjust things about him",
+                "B. Jane does not live too far.",
+                "C. He does not fear what Jane says.",
+                "D. Jane is rude to others."
+              ],
+              "correctAnswer": "A",
+              "explanation": "The man says it's 'unfair' (unjust) of Jane to say that, meaning she said unjust things about him.",
+              "userAnswer": null
+            },
+            {
+              "id": 7,
+              "type": "listening-single",
+              "transcript": "Man: I don't think this painting is very good. Woman: It's better than the first one, isn't it?",
+              "question": "What does the woman say about the painting?",
+              "options": [
+                "A. It's similar to the last one",
+                "B. She thinks it's an improvement.",
+                "C. It is the best painting he has ever done.",
+                "D. The trees in it are better"
+              ],
+              "correctAnswer": "B",
+              "explanation": "The woman says 'it's better than the first one,' indicating she sees it as an improvement.",
+              "userAnswer": null
+            },
+            {
+              "id": 8,
+              "type": "listening-single",
+              "transcript": "Woman: Your graduation ceremony is this afternoon. Man: I can't believe it. I've graduated at last.",
+              "question": "What does the man mean?",
+              "options": [
+                "A. He didn't believe the graduation was real",
+                "B. He can't attend the graduation",
+                "C. He's excited and relieved to finally graduate",
+                "D. He doesn't want to graduate"
+              ],
+              "correctAnswer": "C",
+              "explanation": "The man says 'I can't believe it. I've graduated at last,' expressing excitement and relief. Note: The PDF options for Q8 appear to be about parking (misaligned). Based on the audio transcript, the correct answer reflects his excitement about graduation.",
+              "userAnswer": null
+            },
+            {
+              "id": 9,
+              "type": "listening-single",
+              "transcript": "Woman: I got this dress for only three dollars. Man: Three dollars? How did you get it so cheap?",
+              "question": "What does the man mean?",
+              "options": [
+                "A. He thinks the dress is expensive",
+                "B. He's surprised at the low price",
+                "C. He wants to buy a dress too",
+                "D. He doesn't like the dress"
+              ],
+              "correctAnswer": "B",
+              "explanation": "The man is surprised by the very low price, asking 'How did you get it so cheap?'",
+              "userAnswer": null
+            },
+            {
+              "id": 10,
+              "type": "listening-single",
+              "transcript": "Man: I just got my fourth parking ticket this week. Woman: Why don't you try adding more money in the parking meter when you park your car?",
+              "question": "What does the woman suggest the man to do?",
+              "options": [
+                "A. Park the car somewhere else.",
+                "B. Add more money to the parking meter.",
+                "C. Pay another parking lot.",
+                "D. Throw away the parking tickets."
+              ],
+              "correctAnswer": "B",
+              "explanation": "The woman explicitly suggests 'adding more money in the parking meter.'",
+              "userAnswer": null
+            },
+            {
+              "id": 11,
+              "type": "listening-single",
+              "transcript": "Woman: I haven't turned in my schedule change form yet. Do you think that's a problem? Man: You haven't turned it in yet? It's absolutely essential that you turn the form in immediately.",
+              "question": "What does the man mean?",
+              "options": [
+                "A. There is a problem because people don't wait their turn.",
+                "B. Students are allowed to make only four changes in the schedule.",
+                "C. Students are required to form a line.",
+                "D. It is significant to submit the form right away."
+              ],
+              "correctAnswer": "D",
+              "explanation": "The man says it's 'absolutely essential' to turn the form in 'immediately' — significant to submit right away.",
+              "userAnswer": null
+            },
+            {
+              "id": 12,
+              "type": "listening-single",
+              "transcript": "Woman: I'd like to try on some rings, please. Man: Rings in gold or silver?",
+              "question": "Where does this conversation probably take place?",
+              "options": [
+                "A. In a mine",
+                "B. In a clothing store",
+                "C. In a bank",
+                "D. In a jewelry store"
+              ],
+              "correctAnswer": "D",
+              "explanation": "They are discussing trying on rings in gold or silver, which happens in a jewelry store.",
+              "userAnswer": null
+            },
+            {
+              "id": 13,
+              "type": "listening-single",
+              "transcript": "Man: Look at this. You made an awful lot of long distance calls last month. Woman: I called my family even more than usual. That's why the bill's so much higher than usual.",
+              "question": "What are the man and the woman probably discussing?",
+              "options": [
+                "A. How often the woman's family calls",
+                "B. The price of a new telephone",
+                "C. The telephone bill",
+                "D. Going to the woman's family"
+              ],
+              "correctAnswer": "C",
+              "explanation": "They are discussing the high telephone bill caused by long distance calls.",
+              "userAnswer": null
+            },
+            {
+              "id": 14,
+              "type": "listening-single",
+              "transcript": "Man: What do you think of your new manager? Woman: I couldn't be more impressed with him.",
+              "question": "What does the woman mean?",
+              "options": [
+                "A. She has a good opinion of her manager.",
+                "B. Her manager makes impressions of the company.",
+                "C. She hasn't met her new manager yet.",
+                "D. Her manager has given her a lot of pressure."
+              ],
+              "correctAnswer": "A",
+              "explanation": "'I couldn't be more impressed' means she has the highest possible opinion — she has a very good opinion of him.",
+              "userAnswer": null
+            },
+            {
+              "id": 15,
+              "type": "listening-single",
+              "transcript": "Woman: Matt, do you know when the recital starts? Man: It starts at four o'clock, doesn't it?",
+              "question": "What does Matt mean?",
+              "options": [
+                "A. He played an act on the fourth of the month",
+                "B. He thinks the performance begins at four.",
+                "C. The play starts in four hours.",
+                "D. He intends to perform four different plays."
+              ],
+              "correctAnswer": "B",
+              "explanation": "Matt says 'It starts at four o'clock, doesn't it?' — he thinks the performance begins at four.",
+              "userAnswer": null
+            },
+            {
+              "id": 16,
+              "type": "listening-single",
+              "transcript": "Man: That's a nice car. Woman: I got it almost four years ago. Man: It looks brand new. Woman: Yeah, it's in good shape.",
+              "question": "What does the woman mean?",
+              "options": [
+                "A. She has a new car",
+                "B. The woman needs a new car",
+                "C. The car is in good condition",
+                "D. She likes to buy new car"
+              ],
+              "correctAnswer": "C",
+              "explanation": "The woman says 'it's in good shape,' meaning the car is in good condition despite being 4 years old.",
+              "userAnswer": null
+            },
+            {
+              "id": 17,
+              "type": "listening-single",
+              "transcript": "Man: Did you get your movie passes? Woman: I spoke to your secretary about it and she took care of it for me.",
+              "question": "What does the man mean?",
+              "options": [
+                "A. There are no movie passes",
+                "B. He has the movie passes",
+                "C. He will go to the movie with the secretary",
+                "D. The secretary was asked to get the movie passes"
+              ],
+              "correctAnswer": "D",
+              "explanation": "The woman spoke to the secretary who 'took care of it,' meaning the secretary handled getting the movie passes.",
+              "userAnswer": null
+            },
+            {
+              "id": 18,
+              "type": "listening-single",
+              "transcript": "Man: How do you like living in Seattle? Woman: I'm used to it now.",
+              "question": "What does the woman mean?",
+              "options": [
+                "A. She has always liked living in Seattle",
+                "B. She hates living in Seattle",
+                "C. She is accustomed to living in Seattle",
+                "D. She would prefer living in Seattle"
+              ],
+              "correctAnswer": "C",
+              "explanation": "'I'm used to it now' means she has become accustomed to living there.",
+              "userAnswer": null
+            },
+            {
+              "id": 19,
+              "type": "listening-single",
+              "transcript": "Man: Molly sure likes shopping. Woman: If only she liked doing homework as well.",
+              "question": "What does the man imply about Molly?",
+              "options": [
+                "A. She is very likeable",
+                "B. She goes to the mall everyday",
+                "C. She has a lot of assignment",
+                "D. She does not put much effort into her assignment"
+              ],
+              "correctAnswer": "D",
+              "explanation": "The woman wishes Molly liked homework as much as shopping, implying Molly doesn't put much effort into assignments.",
+              "userAnswer": null
+            },
+            {
+              "id": 20,
+              "type": "listening-single",
+              "transcript": "Man: I thought I was supposed to perform the experiment in Room 35. Woman: No, Ticket 35 is in Room 53.",
+              "question": "What will the man probably do?",
+              "options": [
+                "A. Go home",
+                "B. Buy a ticket",
+                "C. Go to Room 35",
+                "D. Go to Room 53"
+              ],
+              "correctAnswer": "D",
+              "explanation": "The woman corrects him — Ticket 35 is in Room 53, so he will go to Room 53.",
+              "userAnswer": null
+            },
+            {
+              "id": 21,
+              "type": "listening-single",
+              "transcript": "Woman: Were you able to get hold of the novel that you wanted? Man: I couldn't. At the bookstore they told me that it wasn't available yet.",
+              "question": "What does the man mean?",
+              "options": [
+                "A. There is no bookstore in his neighborhood.",
+                "B. He does not like to hold too many novels at one time",
+                "C. It's not possible to obtain the novel yet.",
+                "D. He needs to talk to a novelty person."
+              ],
+              "correctAnswer": "C",
+              "explanation": "The man says the novel 'wasn't available yet,' meaning it's not possible to obtain it yet.",
+              "userAnswer": null
+            },
+            {
+              "id": 22,
+              "type": "listening-single",
+              "transcript": "Woman: Professor Howard's lecture certainly went on and on for quite some time. Man: I thought he was never going to finish.",
+              "question": "What does the man imply about the lecture?",
+              "options": [
+                "A. It was unfinished.",
+                "B. It was too long.",
+                "C. It was about honor.",
+                "D. It finished on time."
+              ],
+              "correctAnswer": "B",
+              "explanation": "The man says 'I thought he was never going to finish,' implying the lecture was too long.",
+              "userAnswer": null
+            },
+            {
+              "id": 23,
+              "type": "listening-single",
+              "transcript": "Man: You don't have the course outline from yesterday's biology class? Woman: No, I don't. Do you think I could borrow yours?",
+              "question": "What does the woman mean?",
+              "options": [
+                "A. She needs to use the man's course outline.",
+                "B. Yesterday's biology class was quite boring.",
+                "C. She took some very good outline in biology class.",
+                "D. She would like to lend the man her course outline."
+              ],
+              "correctAnswer": "A",
+              "explanation": "The woman asks to borrow the man's outline, meaning she needs to use it.",
+              "userAnswer": null
+            },
+            {
+              "id": 24,
+              "type": "listening-single",
+              "transcript": "Man: You said that you wanted to go shopping this afternoon. What do you want to get? Woman: I think I'd like to get my dad a new wallet for his birthday.",
+              "question": "What does the woman mean?",
+              "options": [
+                "A. She is going to celebrate her birthday today.",
+                "B. She would like to go shopping with her dad.",
+                "C. She wants a new wallet for herself.",
+                "D. She's looking for a birthday gift."
+              ],
+              "correctAnswer": "D",
+              "explanation": "She wants to buy a wallet for her dad's birthday — she's looking for a birthday gift.",
+              "userAnswer": null
+            },
+            {
+              "id": 25,
+              "type": "listening-single",
+              "transcript": "Woman: You didn't go into the pool, even for a quick dip? Man: I put my fingers in and decided that the water was too cold for me.",
+              "question": "What does the man mean?",
+              "options": [
+                "A. His fingers are too cold.",
+                "B. He prefers cold water.",
+                "C. He didn't go for a swim.",
+                "D. Swimming is quite refreshing."
+              ],
+              "correctAnswer": "C",
+              "explanation": "The man tested the water with his fingers and found it too cold, so he didn't swim.",
+              "userAnswer": null
+            },
+            {
+              "id": 26,
+              "type": "listening-single",
+              "transcript": "Man: Do you know where your jacket is? Woman: I think I left it at my brother's house, but I'm not sure.",
+              "question": "What does the woman mean?",
+              "options": [
+                "A. She gave her brother a life jacket.",
+                "B. She just left her brother's house.",
+                "C. Her brother is not at home.",
+                "D. She's not exactly sure where her jacket is."
+              ],
+              "correctAnswer": "D",
+              "explanation": "She says 'I think I left it... but I'm not sure,' meaning she's not exactly sure where her jacket is.",
+              "userAnswer": null
+            },
+            {
+              "id": 27,
+              "type": "listening-single",
+              "transcript": "Man: I need you to work on these new proposals. Woman: But I scarcely have time to finish the ones I already have.",
+              "question": "What does the woman imply?",
+              "options": [
+                "A. She cannot finish the proposals that she is already working on.",
+                "B. She doesn't have time to complete additional proposals",
+                "C. It is not time for compiling the proposals.",
+                "D. She is hard of having responsibility for the proposals."
+              ],
+              "correctAnswer": "B",
+              "explanation": "She 'scarcely has time' for current proposals, implying she doesn't have time for additional ones.",
+              "userAnswer": null
+            },
+            {
+              "id": 28,
+              "type": "listening-single",
+              "transcript": "Man: How much longer do you think you're going to stay in that swimming pool? Woman: I'm getting out now.",
+              "question": "What does the man mean?",
+              "options": [
+                "A. He's had enough swimming.",
+                "B. He's going to the pool.",
+                "C. He's going to stay on for quite some time.",
+                "D. He would like to go to the pool with the woman."
+              ],
+              "correctAnswer": "A",
+              "explanation": "The question asks how much longer — she responds she's getting out, meaning she's had enough swimming.",
+              "userAnswer": null
+            },
+            {
+              "id": 29,
+              "type": "listening-single",
+              "transcript": "Woman: Look at those boats coming in. They're as huge as I've ever seen them. Man: You can say that again.",
+              "question": "What does the man mean?",
+              "options": [
+                "A. The boats are not coming in.",
+                "B. He agrees with the woman.",
+                "C. He cannot see the huge boats.",
+                "D. He would like the woman to repeat what she said."
+              ],
+              "correctAnswer": "B",
+              "explanation": "'You can say that again' is an idiom meaning 'I completely agree with you.'",
+              "userAnswer": null
+            },
+            {
+              "id": 30,
+              "type": "listening-single",
+              "transcript": "Man: Are you ready for the history exam today? Woman: I stayed up all night studying for it. Man: Didn't you know that the professor put it off until next Monday?",
+              "question": "What does the woman mean?",
+              "options": [
+                "A. She is completely prepared for the exam.",
+                "B. Night is the best time to study for exams.",
+                "C. The exam was postponed.",
+                "D. The man should have study hard."
+              ],
+              "correctAnswer": "C",
+              "explanation": "The man reveals the professor 'put it off until next Monday,' meaning the exam was postponed.",
+              "userAnswer": null
+            }
+          ]
+        },
+        {
+          "name": "Part B",
+          "description": "Longer conversations with multiple questions each.",
+          "audioUrl": "https://www.youtube.com/watch?v=vw2z9MOJM7c",
+          "audioUrlDrive": "https://drive.google.com/file/d/1tveAcmwtTcpCX0f4Hf9ZPiz5shcKkHru/view?usp=sharing",
+          "groups": [
+            {
+              "groupId": "B1",
+              "context": "A man and a woman discuss a dance performance / musical.",
+              "transcript": "Man: What a fantastic performance! Thank you for inviting me to the musical. Woman: You're welcome. I'm happy that you enjoyed the show. Man: The choreography of the dancers was incredible. It reminds me of when I used to dance. Woman: I know, you were such a talented ballerina. Do you miss dancing? Man: Oh, that's very kind of you, Jim. I do miss it sometimes, but I'll always be a fan of the arts. That's why I love going to musicals, because it's the perfect combination of song, dance, and theater. Woman: Absolutely. I'm glad you're still an art fan too. Man: Thank you for the invitation. It's always a pleasure to attend an arts event with you and learn something new.",
+              "questions": [
+                {
+                  "id": 31,
+                  "type": "listening-group",
+                  "question": "What does the man feel about the show?",
+                  "options": [
+                    "A. It was a bad performance",
+                    "B. The performance was very boring",
+                    "C. It was a very good",
+                    "D. The performance is not fantastic"
+                  ],
+                  "correctAnswer": "C",
+                  "explanation": "The man says 'What a fantastic performance!' — he thought it was very good.",
+                  "userAnswer": null
+                },
+                {
+                  "id": 32,
+                  "type": "listening-group",
+                  "question": "Who is the woman?",
+                  "options": [
+                    "A. A choreographer",
+                    "B. A music artist",
+                    "C. A fantastic music performer",
+                    "D. A ballerina"
+                  ],
+                  "correctAnswer": "D",
+                  "explanation": "The man says 'you were such a talented ballerina,' identifying the woman as a (former) ballerina.",
+                  "userAnswer": null
+                },
+                {
+                  "id": 33,
+                  "type": "listening-group",
+                  "question": "Why does the woman love going to musicals?",
+                  "options": [
+                    "A. The mixture of song, dance and theater is very good",
+                    "B. It was a pleasure to attend an art event",
+                    "C. They can learn something new",
+                    "D. She misses dancing"
+                  ],
+                  "correctAnswer": "A",
+                  "explanation": "She says 'it's the perfect combination of song, dance, and theater.'",
+                  "userAnswer": null
+                }
+              ]
+            },
+            {
+              "groupId": "B2",
+              "context": "A man and a woman discuss planning a trip.",
+              "transcript": "Woman: I just bought a ticket to New York City. I'm so excited to see the city. Man: Good for you. Traveling is so much fun. I love discovering new places and new people. Woman: When are you leaving? Man: Next week. I'm taking the red eye. It was cheaper. Hopefully I'll be able to sleep on the plane. Woman: I wish I could go with you. New York City is a magical place. You will have so much fun. Man: I hope so. I'm going to visit my brother who lives there. I'll stay for a week and then take the train down to Washington, D.C. Woman: That sounds like a great vacation. Man: I'm looking forward to a week at the beach for my summer vacation. I just want to relax.",
+              "questions": [
+                {
+                  "id": 34,
+                  "type": "listening-group",
+                  "question": "What is the woman planning to do?",
+                  "options": [
+                    "A. Buy a ticket",
+                    "B. Go to New York City",
+                    "C. Travelling to the city",
+                    "D. Discovering magical places"
+                  ],
+                  "correctAnswer": "B",
+                  "explanation": "The woman says 'I just bought a ticket to New York City' — she's planning to go to NYC.",
+                  "userAnswer": null
+                },
+                {
+                  "id": 35,
+                  "type": "listening-group",
+                  "question": "How long will the woman be in New York City?",
+                  "options": [
+                    "A. A week",
+                    "B. Two week",
+                    "C. Three week",
+                    "D. Four week"
+                  ],
+                  "correctAnswer": "A",
+                  "explanation": "The speaker says 'I'll stay for a week and then take the train down to Washington, D.C.'",
+                  "userAnswer": null
+                },
+                {
+                  "id": 36,
+                  "type": "listening-group",
+                  "question": "What does the man plan to do?",
+                  "options": [
+                    "A. Go to New York City",
+                    "B. Go to Washington, D.C",
+                    "C. Take a train",
+                    "D. Take a vacation at the beach"
+                  ],
+                  "correctAnswer": "D",
+                  "explanation": "The man says 'I'm looking forward to a week at the beach for my summer vacation.'",
+                  "userAnswer": null
+                }
+              ]
+            },
+            {
+              "groupId": "B3",
+              "context": "A man and a woman discuss getting a pet.",
+              "transcript": "Woman: Oh, what a beautiful cat. What do you think? Man: I think I'd rather get a dog. Dogs are more loyal than cats. Woman: Yes, but there's so much work. Would you be willing to walk it every single day and clean up after it? Man: Hmm, good point. What about a bird or a fish? Woman: We'd have to invest a lot of money in a cage or a fish tank, and I don't really know how to take care of a bird or fish. Man: Well, we're obviously not ready to get a pet yet. Woman: Yeah, you're right. Let's go grab some coffee and talk about it.",
+              "questions": [
+                {
+                  "id": 37,
+                  "type": "listening-group",
+                  "question": "What does the man like more?",
+                  "options": [
+                    "A. A cat",
+                    "B. A dog",
+                    "C. A fish",
+                    "D. A bird"
+                  ],
+                  "correctAnswer": "B",
+                  "explanation": "The man says 'I'd rather get a dog. Dogs are more loyal than cats.'",
+                  "userAnswer": null
+                },
+                {
+                  "id": 38,
+                  "type": "listening-group",
+                  "question": "Why doesn't the woman like having a dog as a pet?",
+                  "options": [
+                    "A. It works so much",
+                    "B. They need to walk it every single day",
+                    "C. It is more loyal than cats.",
+                    "D. They don't really know how to take care of it"
+                  ],
+                  "correctAnswer": "B",
+                  "explanation": "The woman says 'Would you be willing to walk it every single day and clean up after it?' — too much work (walking daily).",
+                  "userAnswer": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Part C",
+          "description": "Lectures/talks with multiple questions each.",
+          "audioUrl": "https://www.youtube.com/watch?v=7iSVnDFtWDw",
+          "audioUrlDrive": "https://drive.google.com/file/d/1lEadcV3y9KkiNHJ1CiebI1JK15lgKJBp/view?usp=sharing",
+          "groups": [
+            {
+              "groupId": "C0",
+              "context": "Continuation of pet discussion from Part B",
+              "questions": [
+                {
+                  "id": 39,
+                  "type": "listening-group",
+                  "question": "What will they probably do next?",
+                  "options": [
+                    "A. Pick a dog to be their pet",
+                    "B. Go somewhere to choose a pet",
+                    "C. Talk about what pet they want to get",
+                    "D. Ready to get a pet"
+                  ],
+                  "correctAnswer": "C",
+                  "explanation": "They say 'let's go grab some coffee and talk about it' — they will discuss what pet they want.",
+                  "userAnswer": null
+                }
+              ]
+            },
+            {
+              "groupId": "C1",
+              "context": "Lecture about the age of trees (Bristlecone Pine).",
+              "transcript": "People are often surprised to learn just how long some varieties of trees can live. If asked to estimate the age of the oldest living trees on Earth, they often come up with guesses in the neighborhood of two or perhaps 300 years. The real answer is considerably larger than that — more than 5,000 years. The tree that wins the prize for its considerable maturity is the bristlecone pine of California. This venerable pine predates Wonders of the Ancient World. It is not nearly as tall as the giant redwood — often little more than 5 meters in height. This relatively short height may be one of the factors that aid the bristlecone pine in living to a ripe old age. An additional factor is that this type of tree has a high percentage of resin, which prevents rot from developing in a tree trunk and branches.",
+              "questions": [
+                {
+                  "id": 40,
+                  "type": "listening-group",
+                  "question": "What is the topic of the lecture?",
+                  "options": [
+                    "A. The Size of the Bristlecone Pine",
+                    "B. Three-Hundred-Year-Old Forests",
+                    "C. The Wonders of the Ancient World",
+                    "D. An Amazingly Enduring Tree"
+                  ],
+                  "correctAnswer": "D",
+                  "explanation": "The lecture is about the bristlecone pine, an amazingly enduring (long-living) tree — over 5,000 years old.",
+                  "userAnswer": null
+                },
+                {
+                  "id": 41,
+                  "type": "listening-group",
+                  "question": "What can we infer from the lecture about most people?",
+                  "options": [
+                    "A. Are quite accurate in their estimates of the ages of trees",
+                    "B. Have two to three hundred trees in their neighborhoods",
+                    "C. Do not really have any idea how old the oldest trees on Earth are",
+                    "D. Can estimates the ages of the forest"
+                  ],
+                  "correctAnswer": "C",
+                  "explanation": "People guess 200-300 years, but the real answer is 5,000+ years — they don't really know.",
+                  "userAnswer": null
+                },
+                {
+                  "id": 42,
+                  "type": "listening-group",
+                  "question": "According to the lecture, approximately how old are the oldest trees on Earth?",
+                  "options": [
+                    "A. Two hundred years old",
+                    "B. Three hundred years old",
+                    "C. Five hundred years old",
+                    "D. Five thousand years old"
+                  ],
+                  "correctAnswer": "D",
+                  "explanation": "The lecture states 'more than 5,000 years.'",
+                  "userAnswer": null
+                },
+                {
+                  "id": 43,
+                  "type": "listening-group",
+                  "question": "What can be inferred from the lecture about resin?",
+                  "options": [
+                    "A. assists the tree trunks to develop",
+                    "B. is found only in the bristlecone pine",
+                    "C. flows from the branches to the tree trunk",
+                    "D. helps stop rot from starting"
+                  ],
+                  "correctAnswer": "D",
+                  "explanation": "The lecture says resin 'prevents rot from developing' — it helps stop rot from starting.",
+                  "userAnswer": null
+                }
+              ]
+            },
+            {
+              "groupId": "C2",
+              "context": "Lecture about deserts.",
+              "transcript": "Most people think of deserts as dry, flat areas with little vegetation and little or no rainfall, but this is hardly true. Many deserts have varied geographical formations, ranging from soft rolling hills to stark, jagged cliffs. And most deserts have a permanent source of water. Although deserts do not receive a high amount of rainfall — to be classified as a desert, an area must get less than 25 centimeters of rainfall per year — there are many plants that thrive on only small amounts of water, and deserts are often full of such plant life.",
+              "questions": [
+                {
+                  "id": 44,
+                  "type": "listening-group",
+                  "question": "What is the main topic of the lecture?",
+                  "options": [
+                    "A. Deserts are dry, flat areas with few plants.",
+                    "B. There is little rainfall in the desert.",
+                    "C. Many kinds of vegetation can survive with little water.",
+                    "D. Deserts are not really flat areas with little plant life."
+                  ],
+                  "correctAnswer": "D",
+                  "explanation": "The lecture's main point is that the common conception of deserts as flat and barren is incorrect.",
+                  "userAnswer": null
+                },
+                {
+                  "id": 45,
+                  "type": "listening-group",
+                  "question": "What can be implied about the lecture?",
+                  "options": [
+                    "A. The typical conception of a desert is incorrect",
+                    "B. All deserts are dry, flat areas",
+                    "C. Most people are well informed about deserts",
+                    "D. The lack of rainfall in deserts causes the lack of vegetation"
+                  ],
+                  "correctAnswer": "A",
+                  "explanation": "The lecture says 'Most people think of deserts as... but this is hardly true' — the typical conception is incorrect.",
+                  "userAnswer": null
+                },
+                {
+                  "id": 46,
+                  "type": "listening-group",
+                  "question": "What can be inferred about the geography of deserts?",
+                  "options": [
+                    "A. Flat",
+                    "B. Sandy",
+                    "C. Varied",
+                    "D. Void of vegetation"
+                  ],
+                  "correctAnswer": "C",
+                  "explanation": "The lecture says deserts have 'varied geographical formations, ranging from soft rolling hills to stark, jagged cliffs.'",
+                  "userAnswer": null
+                },
+                {
+                  "id": 47,
+                  "type": "listening-group",
+                  "question": "According to the lecture, what causes an area to be classified as a desert?",
+                  "options": [
+                    "A. The type of plants",
+                    "B. The geographical formations",
+                    "C. The amount of rainfall",
+                    "D. The source of water"
+                  ],
+                  "correctAnswer": "C",
+                  "explanation": "The lecture states 'to be classified as a desert, an area must get less than 25 centimeters of rainfall per year.'",
+                  "userAnswer": null
+                }
+              ]
+            },
+            {
+              "groupId": "C3",
+              "context": "Lecture about John James Audubon.",
+              "transcript": "John James Audubon, 19th century artist and naturalist, is known as one of the foremost authorities on North American birds. Born in Les Cayes, Haiti, in 1785, Audubon was raised in France and studied art under French artist Jacques-Louis David. After settling on his father's Pennsylvania estate at the age of 18, he first began to study and paint birds. In his young adulthood, Audubon undertook numerous enterprises, generally without a tremendous amount of success. His business career came to an end in 1819 when he was jailed for debt and forced to file for bankruptcy. It was at that time that Audubon began seriously to pursue the dream of publishing a collection of his paintings of birds. For the next six years, he painted birds in their natural habitats while his wife worked as a teacher to support the family.",
+              "questions": [
+                {
+                  "id": 48,
+                  "type": "listening-group",
+                  "question": "What is the lecture mainly about?",
+                  "options": [
+                    "A. North American birds",
+                    "B. Audubon's route to success as a painter of birds",
+                    "C. the works that Audubon published",
+                    "D. Audubon's preference for travel in natural habitats"
+                  ],
+                  "correctAnswer": "B",
+                  "explanation": "The lecture traces Audubon's path from failed businesses to becoming a dedicated bird painter.",
+                  "userAnswer": null
+                },
+                {
+                  "id": 49,
+                  "type": "listening-group",
+                  "question": "When did Audubon decide not to continue to pursue business?",
+                  "options": [
+                    "A. he was injured in an accident at a grist mill",
+                    "B. he decided to study art in France",
+                    "C. he was put in prison because he owed money",
+                    "D. he made enough business experience"
+                  ],
+                  "correctAnswer": "C",
+                  "explanation": "The lecture says 'His business career came to an end in 1819 when he was jailed for debt.'",
+                  "userAnswer": null
+                },
+                {
+                  "id": 50,
+                  "type": "listening-group",
+                  "question": "What can be said about Audubon's paintings?",
+                  "options": [
+                    "A. were realistic portrayals",
+                    "B. used only black, white, and gray",
+                    "C. were done in oils",
+                    "D. depicted birds in cages"
+                  ],
+                  "correctAnswer": "A",
+                  "explanation": "He 'painted birds in their natural habitats' — realistic portrayals of birds in nature, not in cages.",
+                  "userAnswer": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Structure and Written Expression",
+      "timeLimit": "25 minutes",
+      "totalQuestions": 40,
+      "parts": [
+        {
+          "name": "Structure (Sentence Completion)",
+          "description": "Select the word or phrase that best completes the sentence.",
+          "questions": [
+            {
+              "id": 1,
+              "type": "rumpang",
+              "question": "Crop rotation _____ of preserving soil fertility.",
+              "options": [
+                "A. It is one method",
+                "B. One method",
+                "C. A method is one",
+                "D. Is one method"
+              ],
+              "correctAnswer": "D",
+              "explanation": "'Crop rotation' is the subject; 'is one method' provides the verb and complement: 'Crop rotation is one method of preserving soil fertility.'",
+              "userAnswer": null
+            },
+            {
+              "id": 2,
+              "type": "rumpang",
+              "question": "Wild Bill Hickok _______ for the Union Army during the Civil War by posing as a Confederate officer.",
+              "options": [
+                "A. Spied",
+                "B. Spying",
+                "C. A spy",
+                "D. Was spied"
+              ],
+              "correctAnswer": "A",
+              "explanation": "The sentence needs a simple past verb. 'Spied for' = acted as a spy for. 'Was spied' is passive and doesn't work with 'for' in this context.",
+              "userAnswer": null
+            },
+            {
+              "id": 3,
+              "type": "rumpang",
+              "question": "The one in charge of a meeting _____ toward the end of the meeting.",
+              "options": [
+                "A. Table general important topics",
+                "B. Tables generally the important topics",
+                "C. Generally the topic of the table",
+                "D. Generally tables important topics"
+              ],
+              "correctAnswer": "D",
+              "explanation": "'Generally tables' = adverb + verb (3rd person singular matching 'the one'). 'Important topics' = direct object. Correct word order.",
+              "userAnswer": null
+            },
+            {
+              "id": 4,
+              "type": "rumpang",
+              "question": "We regret not ______ of the chairman's decision before the board meeting.",
+              "options": [
+                "A. to be informed",
+                "B. having informed",
+                "C. to have been informed",
+                "D. having been informed"
+              ],
+              "correctAnswer": "D",
+              "explanation": "'Regret + gerund' refers to past events. 'Having been informed' = passive gerund perfect. We regret not having been informed (= we wish we had been informed).",
+              "userAnswer": null
+            },
+            {
+              "id": 5,
+              "type": "rumpang",
+              "question": "Before the advent of satellite, television viewers ______ a very wide selection of channels.",
+              "options": [
+                "A. Must not have",
+                "B. Didn't use to have",
+                "C. Needn't have",
+                "D. Might not have"
+              ],
+              "correctAnswer": "B",
+              "explanation": "'Didn't use to have' describes a past habit/state that no longer applies — before satellites, viewers didn't have many channels.",
+              "userAnswer": null
+            },
+            {
+              "id": 6,
+              "type": "rumpang",
+              "question": "It is believed that the modern bird ________ the pterodactyls that existed millions of years ago.",
+              "options": [
+                "A. Was evolved from",
+                "B. Evolved from",
+                "C. Evolved",
+                "D. Was evolving from"
+              ],
+              "correctAnswer": "B",
+              "explanation": "'Evolve' is intransitive; it cannot be used in passive voice. 'Evolved from' is correct: birds evolved from pterodactyls.",
+              "userAnswer": null
+            },
+            {
+              "id": 7,
+              "type": "rumpang",
+              "question": "The Prime Minister wanted ______ by the next generations and decided to implement some radical changes in the educational system.",
+              "options": [
+                "A. To remember",
+                "B. Remembering",
+                "C. To be remembered",
+                "D. Having remembered"
+              ],
+              "correctAnswer": "C",
+              "explanation": "'Want + to be + past participle' = passive infinitive. The PM wanted to be remembered (by others).",
+              "userAnswer": null
+            },
+            {
+              "id": 8,
+              "type": "rumpang",
+              "question": "_______ are most mammals able to receive the most information about what is happening in their immediate environment.",
+              "options": [
+                "A. Because they use sight",
+                "B. By means of sight",
+                "C. With the sights",
+                "D. Using sight"
+              ],
+              "correctAnswer": "B",
+              "explanation": "The inverted structure 'By means of sight are most mammals able to...' is formal English with a prepositional phrase fronted for emphasis.",
+              "userAnswer": null
+            },
+            {
+              "id": 9,
+              "type": "rumpang",
+              "question": "The Consumer Price Index in the United States _______ the inflation rate.",
+              "options": [
+                "A. As the primary indicates",
+                "B. Is the indication primarily",
+                "C. Primarily indicates of",
+                "D. Is a primary indicator of"
+              ],
+              "correctAnswer": "D",
+              "explanation": "'Is a primary indicator of' completes the sentence correctly: 'The CPI is a primary indicator of the inflation rate.'",
+              "userAnswer": null
+            },
+            {
+              "id": 10,
+              "type": "rumpang",
+              "question": "There are six types of flamingos, all ______ have long legs, long necks, and beaks that curve sharply downward.",
+              "options": [
+                "A. Of which",
+                "B. Of them",
+                "C. That",
+                "D. They"
+              ],
+              "correctAnswer": "A",
+              "explanation": "'All of which' is a non-restrictive relative clause: 'six types of flamingos, all of which have long legs...'",
+              "userAnswer": null
+            },
+            {
+              "id": 11,
+              "type": "rumpang",
+              "question": "Since his release from jail in 1990, Nelson Mandela has emerged as the _____ spokesman for South Africa's anti-apartheid movement.",
+              "options": [
+                "A. More prominent",
+                "B. More prominently",
+                "C. Most prominent",
+                "D. Most prominently"
+              ],
+              "correctAnswer": "C",
+              "explanation": "Superlative adjective needed before noun: 'the most prominent spokesman.'",
+              "userAnswer": null
+            },
+            {
+              "id": 12,
+              "type": "rumpang",
+              "question": "One of ______ smallest particles thought to exist, the quark is believed to exist in pairs, together forming a hadron.",
+              "options": [
+                "A. what was the",
+                "B. what the",
+                "C. those of the",
+                "D. The"
+              ],
+              "correctAnswer": "D",
+              "explanation": "'One of the smallest particles' — standard superlative construction with definite article.",
+              "userAnswer": null
+            },
+            {
+              "id": 13,
+              "type": "rumpang",
+              "question": "_______ are contained in DNA, the complex chemical mixture that determines the hereditary characteristics of an organism.",
+              "options": [
+                "A. The genes",
+                "B. The genes that",
+                "C. Although the genes",
+                "D. There are genes"
+              ],
+              "correctAnswer": "A",
+              "explanation": "'The genes are contained in DNA' — simple subject + verb. Other options create fragments or redundancy.",
+              "userAnswer": null
+            },
+            {
+              "id": 14,
+              "type": "rumpang",
+              "question": "In most states a sales tax ranging from two per cent to ten per cent _____ on most purchases of luxury items.",
+              "options": [
+                "A. is levied",
+                "B. are levied",
+                "C. to levy",
+                "D. levying"
+              ],
+              "correctAnswer": "A",
+              "explanation": "Subject is 'a sales tax' (singular), so 'is levied' (singular passive) is correct.",
+              "userAnswer": null
+            },
+            {
+              "id": 15,
+              "type": "rumpang",
+              "question": "_______ toward shore, its shape is changed by its collision with the shallow sea bottom.",
+              "options": [
+                "A. During a wave rolls",
+                "B. As a wave rolls",
+                "C. A wave rolls",
+                "D. A wave's rolling"
+              ],
+              "correctAnswer": "B",
+              "explanation": "'As a wave rolls toward shore' = temporal clause. 'During' needs a noun, not a clause. 'A wave rolls' creates a comma splice.",
+              "userAnswer": null
+            }
+          ]
+        },
+        {
+          "name": "Written Expression (Error Identification)",
+          "description": "Identify the underlined word or phrase that must be changed for the sentence to be correct.",
+          "questions": [
+            {
+              "id": 16,
+              "type": "error-identification",
+              "question": "There(A) are thousand(B) of different(C) types of roses(D).",
+              "underlinedParts": {"A": "There", "B": "thousand", "C": "different", "D": "roses"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "B",
+              "explanation": "'thousand' should be 'thousands' — plural required before 'of' (thousands of).",
+              "userAnswer": null
+            },
+            {
+              "id": 17,
+              "type": "error-identification",
+              "question": "The varying(A) orbit of(B) Pluto means that ambient(C) temperatures also vary(D) greatly.",
+              "underlinedParts": {"A": "varying", "B": "of", "C": "ambient", "D": "vary"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "A",
+              "explanation": "'varying' should be 'variable' — as an attributive adjective describing a characteristic of the orbit.",
+              "userAnswer": null
+            },
+            {
+              "id": 18,
+              "type": "error-identification",
+              "question": "Along northern(A) most edge(B) of the United States runs(C) the US/Canada border(D).",
+              "underlinedParts": {"A": "northern", "B": "most edge", "C": "runs", "D": "border"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "A",
+              "explanation": "'northern most' should be 'the northernmost' — superlative form as one word, with article 'the'.",
+              "userAnswer": null
+            },
+            {
+              "id": 19,
+              "type": "error-identification",
+              "question": "Physical therapists help patients relearn(A) how to use(B) their bodies after(C) disease or injure(D).",
+              "underlinedParts": {"A": "relearn", "B": "how to use", "C": "after", "D": "injure"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "D",
+              "explanation": "'injure' (verb) should be 'injury' (noun) — parallel with 'disease' (noun).",
+              "userAnswer": null
+            },
+            {
+              "id": 20,
+              "type": "error-identification",
+              "question": "Gene Krupa had one of the few(A) big band(B) that(C) was centered on(D) a drummer.",
+              "underlinedParts": {"A": "few", "B": "big band", "C": "that", "D": "was centered on"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "B",
+              "explanation": "'big band' should be 'big bands' — plural required after 'one of the few.'",
+              "userAnswer": null
+            },
+            {
+              "id": 21,
+              "type": "error-identification",
+              "question": "The Ringling Brothers were five brothers which(A) built a small group of performers(B) into the world's(C) largest(D) circus.",
+              "underlinedParts": {"A": "which", "B": "group of performers", "C": "world's", "D": "largest"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "A",
+              "explanation": "'which' should be 'who' — relative pronoun for people, not things.",
+              "userAnswer": null
+            },
+            {
+              "id": 22,
+              "type": "error-identification",
+              "question": "Despite of(A) cats cannot see in complete darkness, their eyes(B) are much more(C) sensitive to light(D) than humans' eyes.",
+              "underlinedParts": {"A": "Despite of", "B": "their eyes", "C": "much more", "D": "to light"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "A",
+              "explanation": "'Despite of' is incorrect. Should be 'Despite the fact that' or 'Although.'",
+              "userAnswer": null
+            },
+            {
+              "id": 23,
+              "type": "error-identification",
+              "question": "Although(A) Adlai Stevenson was never(B) elected president, he was one of the preminent American politics(C) of the mid-twentieth century(D).",
+              "underlinedParts": {"A": "Although", "B": "never", "C": "politics", "D": "mid-twentieth century"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "C",
+              "explanation": "'politics' (field of study) should be 'politicians' (people).",
+              "userAnswer": null
+            },
+            {
+              "id": 24,
+              "type": "error-identification",
+              "question": "A(A) test pilot tries out new kinds of(B) aircraft to determine(C) if are they safe(D).",
+              "underlinedParts": {"A": "A", "B": "kinds of", "C": "to determine", "D": "if are they safe"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "D",
+              "explanation": "'if are they safe' should be 'if they are safe' — embedded (indirect) questions use statement word order.",
+              "userAnswer": null
+            },
+            {
+              "id": 25,
+              "type": "error-identification",
+              "question": "Art critics do not all(A) agree on what are the qualities(B) make(C) a painting great(D).",
+              "underlinedParts": {"A": "do not all", "B": "what are the qualities", "C": "make", "D": "great"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "B",
+              "explanation": "'what are the qualities' should be 'what qualities' — embedded question requires statement word order, no inversion.",
+              "userAnswer": null
+            },
+            {
+              "id": 26,
+              "type": "error-identification",
+              "question": "Because of extensive research(A) in the field of genetic engineers(B), scientists can now create plants that farmers can grow in harsh(D) climates.",
+              "underlinedParts": {"A": "extensive research", "B": "genetic engineers", "C": "(not marked)", "D": "harsh"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "B",
+              "explanation": "'genetic engineers' (people) should be 'genetic engineering' (the field/discipline).",
+              "userAnswer": null
+            },
+            {
+              "id": 27,
+              "type": "error-identification",
+              "question": "The Great Fire of 1906 in San Francisco was happened(A) primarily(B) as a result of(C) the great earthquake preceding it(D).",
+              "underlinedParts": {"A": "was happened", "B": "primarily", "C": "as a result of", "D": "preceding it"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "A",
+              "explanation": "'was happened' should be 'happened' — 'happen' is intransitive and cannot be made passive.",
+              "userAnswer": null
+            },
+            {
+              "id": 28,
+              "type": "error-identification",
+              "question": "Because of(A) the enormous pull gravitational(B) of the Moon, the shape of the Earth actually changes as(C) the largest oceans are pulled toward(D) the Moon.",
+              "underlinedParts": {"A": "Because of", "B": "pull gravitational", "C": "changes as", "D": "toward"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "B",
+              "explanation": "'pull gravitational' should be 'gravitational pull' — adjective must precede the noun in English.",
+              "userAnswer": null
+            },
+            {
+              "id": 29,
+              "type": "error-identification",
+              "question": "Only with the advent of refrigerator(A) were(B) most Americans able to begin(C) to consume fresh meat(D).",
+              "underlinedParts": {"A": "refrigerator", "B": "were", "C": "able to begin", "D": "fresh meat"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "A",
+              "explanation": "'refrigerator' should be 'refrigeration' (the technology/process) or 'the refrigerator' (needs article).",
+              "userAnswer": null
+            },
+            {
+              "id": 30,
+              "type": "error-identification",
+              "question": "The gross domestic product of a country is a figure(A) expressed(B) in monetary terms that represents the entire economy(C) value of the goods(D) and services produced in that country.",
+              "underlinedParts": {"A": "figure", "B": "expressed", "C": "economy", "D": "goods"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "C",
+              "explanation": "'economy' (noun) should be 'economic' (adjective) — adjective needed to modify 'value.'",
+              "userAnswer": null
+            },
+            {
+              "id": 31,
+              "type": "error-identification",
+              "question": "One of the first state(A) of the United States, Rhode Island is the smallest(B) of all the states and is located(C) north(D) of the largest city in the United States, New York City.",
+              "underlinedParts": {"A": "state", "B": "smallest", "C": "is located", "D": "north"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "A",
+              "explanation": "'state' should be 'states' — plural required after 'one of the first.'",
+              "userAnswer": null
+            },
+            {
+              "id": 32,
+              "type": "error-identification",
+              "question": "Critical to understanding(A) the phenomenon of human intelligence is the notion that not all(B) human thought patterns are(C) either predictable nor(D) rational.",
+              "underlinedParts": {"A": "understanding", "B": "not all", "C": "are", "D": "nor"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "D",
+              "explanation": "'nor' should be 'or' — the correct correlative pair is 'either...or,' not 'either...nor.'",
+              "userAnswer": null
+            },
+            {
+              "id": 33,
+              "type": "error-identification",
+              "question": "The White House, when(A) is located(B) in Washington, is the home(C) of the president(D).",
+              "underlinedParts": {"A": "when", "B": "is located", "C": "is the home", "D": "of the president"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "A",
+              "explanation": "'when' should be 'which' — relative pronoun for a thing/place, not a time adverb.",
+              "userAnswer": null
+            },
+            {
+              "id": 34,
+              "type": "error-identification",
+              "question": "Engraving is a process which(A) the surface of metal is first covered(B) with an acid(C) and then inscribed with some sharp instruments(D).",
+              "underlinedParts": {"A": "which", "B": "is first covered", "C": "with an acid", "D": "with some sharp instruments"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "A",
+              "explanation": "'which' should be 'in which' — a preposition is needed: 'a process in which the surface...'",
+              "userAnswer": null
+            },
+            {
+              "id": 35,
+              "type": "error-identification",
+              "question": "For many years ago(A), much of(B) what was possible to know was derived from(C) inspiration or divination and did not involve the rational process of reasoning in wide use(D) today.",
+              "underlinedParts": {"A": "For many years ago", "B": "much of", "C": "was derived from", "D": "in wide use"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "A",
+              "explanation": "'For many years ago' is redundant — use either 'For many years' or 'Many years ago,' not both.",
+              "userAnswer": null
+            },
+            {
+              "id": 36,
+              "type": "error-identification",
+              "question": "In the formation of a rainbow occurs(A) a process in which light is diffused at varying(B) rates by the surrounding atmosphere, resulting(C) in the reflection of different wave lengths(D) of light.",
+              "underlinedParts": {"A": "occurs", "B": "varying", "C": "resulting", "D": "wave lengths"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "D",
+              "explanation": "'wave lengths' should be 'wavelengths' — it is one compound word.",
+              "userAnswer": null
+            },
+            {
+              "id": 37,
+              "type": "error-identification",
+              "question": "Though(A) difficult, it possible(B) for an adult learner of a new language to master(C) the subtleties of the grammar and syntax of the new language(D).",
+              "underlinedParts": {"A": "Though", "B": "it possible", "C": "to master", "D": "of the new language"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "B",
+              "explanation": "'it possible' should be 'it is possible' — missing verb 'is.'",
+              "userAnswer": null
+            },
+            {
+              "id": 38,
+              "type": "error-identification",
+              "question": "The scientific method is a system in which(A) a problem or challenge is(B) identified and possible solutions are created and tested, with(C) the final results evaluated to determine the best approach to the resulting(D) theory.",
+              "underlinedParts": {"A": "in which", "B": "is", "C": "with", "D": "resulting"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "D",
+              "explanation": "'resulting' is misleading in context — the theory is not a result of the evaluation but rather the subject being tested. Should be 'resultant' or restructured.",
+              "userAnswer": null
+            },
+            {
+              "id": 39,
+              "type": "error-identification",
+              "question": "The Smithsonian Institution in Washington D.C. is home to(A) the largest collecting(B) of Native American artifacts in the United States, most of which(C) remain uncatalogued(D) and hidden from public view.",
+              "underlinedParts": {"A": "is home to", "B": "collecting", "C": "most of which", "D": "uncatalogued"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "B",
+              "explanation": "'collecting' (gerund/verb form) should be 'collection' (noun).",
+              "userAnswer": null
+            },
+            {
+              "id": 40,
+              "type": "error-identification",
+              "question": "I honestly had(A) to speak out(B) my opinion because(C) she insisted to know what(D) I think.",
+              "underlinedParts": {"A": "had", "B": "speak out", "C": "because", "D": "to know what"},
+              "options": ["A", "B", "C", "D"],
+              "correctAnswer": "D",
+              "explanation": "'insisted to know' is incorrect — 'insist' requires 'on + gerund': 'insisted on knowing.'",
+              "userAnswer": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reading Comprehension",
+      "timeLimit": "55 minutes",
+      "totalQuestions": 50,
+      "passages": [
+        {
+          "passageId": 1,
+          "title": "Airbus A380",
+          "text": "Line 1: The Airbus A380 is a double-deck, wide-body, four-engine jet airliner assembled in France by the multi-national European-based manufacturer Airbus. It is the world's largest passenger airliner, and the airports at which it operates have upgraded facilities to accommodate it. It was initially named Airbus A3XX and designed to challenge Boeing's monopoly in the large-aircraft market. The A380\nLine 5: made its first flight on 27 April 2005 and entered commercial service in October 2007 with Singapore Airlines.\n\nIts' upper deck extends along the entire length of the fuselage, with a width equivalent to a wide-body aircraft. This gives the A380-800's cabin 550 square metres (5,920 sq ft) of usable floor space,\nLine 9: 40% more than the next largest airliner, the Boeing 747-8, and provides seating for 525 people in a typical three-class configuration or up to 853 people in an all-economy class configuration. The A380-800 has a design range of 8,500 nautical miles (15,700 km), sufficient to fly nonstop from Dallas, USA to Sydney, Australia, and a cruising speed of Mach 0.85 (about 900 km/h, 560 mph or 490 kn at cruising altitude).\n\nLine 14: As of March 2016, Airbus had received 319 firm orders and delivered 184 aircraft; Emirates is the biggest A380 customer. They have 140 on order and 75 delivered.",
+          "questions": [
+            {
+              "id": 1,
+              "type": "reading",
+              "question": "The primary idea of this text is...",
+              "options": ["A. Everyone can rent the entire plane.", "B. Companies are making airplane larger.", "C. The largest passenger airplane.", "D. Emirates is the biggest customer of this plane."],
+              "correctAnswer": "C",
+              "explanation": "The passage is primarily about the Airbus A380, described as 'the world's largest passenger airliner.'",
+              "userAnswer": null
+            },
+            {
+              "id": 2,
+              "type": "reading",
+              "question": "What is the main topic of this passage?",
+              "options": ["A. Business in airlines.", "B. Boeing 747.", "C. Airbus A380.", "D. Airplane routes."],
+              "correctAnswer": "C",
+              "explanation": "The entire passage focuses on the Airbus A380.",
+              "userAnswer": null
+            },
+            {
+              "id": 3,
+              "type": "reading",
+              "question": "When did A380 make its first flight?",
+              "options": ["A. 28 March 2007", "B. 27 April 2005", "C. 13 May 2008", "D. 7 January 2011"],
+              "correctAnswer": "B",
+              "explanation": "Stated directly: 'made its first flight on 27 April 2005.'",
+              "userAnswer": null
+            },
+            {
+              "id": 4,
+              "type": "reading",
+              "question": "How many planes that Emirates order?",
+              "options": ["A. 140", "B. 75", "C. 319", "D. 184"],
+              "correctAnswer": "A",
+              "explanation": "Stated: 'They have 140 on order and 75 delivered.'",
+              "userAnswer": null
+            },
+            {
+              "id": 5,
+              "type": "reading",
+              "question": "The author implies that....",
+              "options": ["A. Airbus A380 can travel around the world", "B. The plane can fly up to 900 km/hour", "C. Airport couldn't accommodate the plane", "D. Plane could only carry the passengers"],
+              "correctAnswer": "C",
+              "explanation": "'the airports at which it operates have upgraded facilities to accommodate it' implies airports initially couldn't accommodate the plane.",
+              "userAnswer": null
+            },
+            {
+              "id": 6,
+              "type": "reading",
+              "question": "Which of the following can be inferred from the passage?",
+              "options": ["A. It is the most wanted plane in the world", "B. The plane is larger than Boeing 747-8", "C. The plane can reach 20,000 miles", "D. The first commercial was Emirates"],
+              "correctAnswer": "B",
+              "explanation": "Passage states '40% more [floor space] than the next largest airliner, the Boeing 747-8,' confirming A380 is larger.",
+              "userAnswer": null
+            },
+            {
+              "id": 7,
+              "type": "reading",
+              "question": "We can change the word \"cruising\" in line 12 into...",
+              "options": ["A. Observing", "B. Demanding", "C. Travelling", "D. Smashing"],
+              "correctAnswer": "C",
+              "explanation": "'Cruising speed' = the speed at which it travels/cruises. 'Travelling' is the closest synonym.",
+              "userAnswer": null
+            },
+            {
+              "id": 8,
+              "type": "reading",
+              "question": "The word \"assembled\" in line 1 is closest in meaning to...",
+              "options": ["A. Uninstall", "B. Deconstruct", "C. Break", "D. Build"],
+              "correctAnswer": "D",
+              "explanation": "'Assembled' = put together = built.",
+              "userAnswer": null
+            },
+            {
+              "id": 9,
+              "type": "reading",
+              "question": "According to the passage the word \"its\" in line 5 refers to...",
+              "options": ["A. France", "B. Airport", "C. A380", "D. Emirates"],
+              "correctAnswer": "C",
+              "explanation": "'The A380 made its first flight' — 'its' refers to the A380.",
+              "userAnswer": null
+            },
+            {
+              "id": 10,
+              "type": "reading",
+              "question": "The word \"they\" in line 15 refers to...",
+              "options": ["A. Airport", "B. A380", "C. Emirates", "D. Boeing 747-8"],
+              "correctAnswer": "C",
+              "explanation": "'Emirates is the biggest A380 customer. They have 140 on order' — 'They' = Emirates.",
+              "userAnswer": null
+            },
+            {
+              "id": 11,
+              "type": "reading",
+              "question": "In this passage...",
+              "options": ["A. an idea is presented and then refuted", "B. a concept is followed by examples", "C. a cause is followed by an effect", "D. an idea is supported with fact"],
+              "correctAnswer": "D",
+              "explanation": "The passage presents the A380 and supports it with factual data (dimensions, range, orders).",
+              "userAnswer": null
+            },
+            {
+              "id": 12,
+              "type": "reading",
+              "question": "How does the writer organize the paragraphs?",
+              "options": ["A. General to specific", "B. Compare events", "C. Chronological", "D. Cause and effect"],
+              "correctAnswer": "A",
+              "explanation": "Starts with a general introduction, then moves to specific details (size, range, orders).",
+              "userAnswer": null
+            },
+            {
+              "id": 13,
+              "type": "reading",
+              "question": "The sentence \"...designed to challenge Boeing's monopoly in the large-aircraft market\" means...",
+              "options": ["A. A380 is intended to defeat Boeing's domination in aircraft market", "B. Boeing is trying to challenge Airbus in aircraft business", "C. Airplanes manufacturers are getting more sophisticated", "D. Airplanes business are now growing larger and vast"],
+              "correctAnswer": "A",
+              "explanation": "'Challenge Boeing's monopoly' = intended to defeat Boeing's domination.",
+              "userAnswer": null
+            },
+            {
+              "id": 14,
+              "type": "reading",
+              "question": "The author uses the sentence \"the airports at which it operates have upgraded facilities to accommodate it\" to mean that...",
+              "options": ["A. Airport couldn't enable the planes to operate", "B. Airplane is too large to land and fly on it.", "C. Airport has accustomed the facilities", "D. Airplanes should adapted to airports"],
+              "correctAnswer": "C",
+              "explanation": "The airports have adapted/accustomed their facilities to handle the A380.",
+              "userAnswer": null
+            },
+            {
+              "id": 15,
+              "type": "reading",
+              "question": "The author's opinion of A380 is best described as...",
+              "options": ["A. Amazed", "B. Impersonal", "C. Pleased", "D. Optimistic"],
+              "correctAnswer": "B",
+              "explanation": "The passage is factual and encyclopedic, presenting data without personal emotion — impersonal tone.",
+              "userAnswer": null
+            }
+          ]
+        },
+        {
+          "passageId": 2,
+          "title": "Ascot Racecourse",
+          "text": "Line 1: Ascot Racecourse (\"ascot\" pronounced /æsket/) is a British racecourse, located in Ascot, Berkshire, England, which is used for thoroughbred horse racing. It is one of the leading racecourses in the United Kingdom, hosting nine of Britain's 32 annual Group 1 horse races.\n\nThe course, owned by Ascot Racecourse Ltd. It enjoys close associations with the British Royal\nLine 5: Family, being approximately six miles from Windsor Castle.\n\nAscot today stages twenty-six days of racing over the course of the year, comprising eighteen flat meetings held between the months of May and October inclusive. It also stages important jump\nLine 8: racing throughout the winter months. The Royal Meeting held each June, remains a major draw, its highlight being The Gold Cup. The most prestigious race is the King George VI and Queen Elizabeth\nLine 10: Stakes run over the course in July.",
+          "questions": [
+            {
+              "id": 16,
+              "type": "reading",
+              "question": "The primary idea of this text is...",
+              "options": ["A. Ascot is popular for its' match.", "B. It holds 10 events each year", "C. It is leading horse race courses in UK", "D. The race is attended by royal family"],
+              "correctAnswer": "C",
+              "explanation": "The passage describes Ascot as 'one of the leading racecourses in the United Kingdom.'",
+              "userAnswer": null
+            },
+            {
+              "id": 17,
+              "type": "reading",
+              "question": "What is the main topic of this passage?",
+              "options": ["A. Race courses.", "B. Horse Racing.", "C. Ascot.", "D. UK"],
+              "correctAnswer": "C",
+              "explanation": "The passage focuses specifically on Ascot Racecourse.",
+              "userAnswer": null
+            },
+            {
+              "id": 18,
+              "type": "reading",
+              "question": "How far is Ascot from Windsor Castle?",
+              "options": ["A. 7 km", "B. 6 miles", "C. 7 miles", "D. 8 miles"],
+              "correctAnswer": "B",
+              "explanation": "Stated: 'approximately six miles from Windsor Castle.'",
+              "userAnswer": null
+            },
+            {
+              "id": 19,
+              "type": "reading",
+              "question": "What is King George VI race?",
+              "options": ["A. Formula 1 race", "B. Football match", "C. Prestigious Race", "D. Race Courses"],
+              "correctAnswer": "C",
+              "explanation": "Stated: 'The most prestigious race is the King George VI and Queen Elizabeth Stakes.'",
+              "userAnswer": null
+            },
+            {
+              "id": 20,
+              "type": "reading",
+              "question": "The author implies that...",
+              "options": ["A. Ascot has largest run in the world", "B. Ascot has relationship with British Royal family", "C. Ascot requires top hat to see the race", "D. Plane could only carry the passengers"],
+              "correctAnswer": "B",
+              "explanation": "Stated: 'It enjoys close associations with the British Royal Family.'",
+              "userAnswer": null
+            },
+            {
+              "id": 21,
+              "type": "reading",
+              "question": "Which of the following can be inferred from the passage?",
+              "options": ["A. Ascot holds Royal meeting in July", "B. Ascot holds more than 15 meetings", "C. Ascot holds more than 25 races quarterly", "D. Ascot holds the courses every June"],
+              "correctAnswer": "D",
+              "explanation": "'The Royal Meeting held each June' — Ascot holds events (the Royal Meeting) every June.",
+              "userAnswer": null
+            },
+            {
+              "id": 22,
+              "type": "reading",
+              "question": "We can change the word \"thoroughbred\" in line 2 into...",
+              "options": ["A. Nobility", "B. Commonwealth", "C. Pedigree", "D. Kingdom"],
+              "correctAnswer": "C",
+              "explanation": "'Thoroughbred' = purebred = pedigree (documented lineage).",
+              "userAnswer": null
+            },
+            {
+              "id": 23,
+              "type": "reading",
+              "question": "The word \"stages\" in line 7 is closest in meaning to...",
+              "options": ["A. Cancel", "B. Finish", "C. Close", "D. Organize"],
+              "correctAnswer": "D",
+              "explanation": "'Stages' as a verb = organizes/hosts/puts on events.",
+              "userAnswer": null
+            },
+            {
+              "id": 24,
+              "type": "reading",
+              "question": "According to the passage the word \"it\" in line 2 refers to...",
+              "options": ["A. Course", "B. Horse", "C. Ascot", "D. British"],
+              "correctAnswer": "C",
+              "explanation": "'It is one of the leading racecourses' — 'It' refers to Ascot Racecourse.",
+              "userAnswer": null
+            },
+            {
+              "id": 25,
+              "type": "reading",
+              "question": "The word \"it\" in line 4 refers to...",
+              "options": ["A. Horse", "B. Race", "C. Course", "D. UK"],
+              "correctAnswer": "C",
+              "explanation": "'The course, owned by Ascot Racecourse Ltd. It enjoys close associations...' — 'It' refers to the course.",
+              "userAnswer": null
+            },
+            {
+              "id": 26,
+              "type": "reading",
+              "question": "In this passage...",
+              "options": ["A. An idea is presented and then disproved", "B. A concept is followed by examples", "C. A cause is followed by a result", "D. A description is followed by detail"],
+              "correctAnswer": "D",
+              "explanation": "The passage describes Ascot Racecourse and then provides specific details about its events.",
+              "userAnswer": null
+            },
+            {
+              "id": 27,
+              "type": "reading",
+              "question": "How does the writer organize the paragraphs?",
+              "options": ["A. General to specific", "B. Compare events", "C. Chronological", "D. Cause and effect"],
+              "correctAnswer": "A",
+              "explanation": "Starts with general description of Ascot, then specific details about events and races.",
+              "userAnswer": null
+            },
+            {
+              "id": 28,
+              "type": "reading",
+              "question": "The sentence \"...comprising eighteen flat meetings\" means...",
+              "options": ["A. Organizing many summits", "B. Conferencing many people", "C. Holding events irregularly", "D. Discussing plan for events"],
+              "correctAnswer": "A",
+              "explanation": "'Comprising eighteen flat meetings' = including/organizing eighteen flat racing events ('meetings' here = organized racing events).",
+              "userAnswer": null
+            },
+            {
+              "id": 29,
+              "type": "reading",
+              "question": "The author uses the sentence \"which is used for thoroughbred horse racing\" to mean that...",
+              "options": ["A. Ascot is used for local racer", "B. Ascot has vary horses race", "C. Ascot is utilized for pure breed horse hustling", "D. Ascot is restricted for non-noble family"],
+              "correctAnswer": "C",
+              "explanation": "'Thoroughbred horse racing' = pure breed horse racing. 'Utilized' = used.",
+              "userAnswer": null
+            },
+            {
+              "id": 30,
+              "type": "reading",
+              "question": "The author's opinion of Ascot is best described as...",
+              "options": ["A. Impersonal", "B. Amazed", "C. Pleased", "D. Optimistic"],
+              "correctAnswer": "A",
+              "explanation": "The passage is factual and encyclopedic with no emotional language — impersonal tone.",
+              "userAnswer": null
+            }
+          ]
+        },
+        {
+          "passageId": 3,
+          "title": "Obesity",
+          "text": "Line 1: On average a physically active man needs around 2,500 calories per day, while a woman needs 2,000. If we eat any more, the extra energy is stored for later use, mostly as fat.\n\nThis mechanism was life-saving during our hunter-gatherer days when food was often scarce. However, the boom in plentiful, cheap food, coupled with a general decrease in physical activity,\nLine 5: means that those stores of fat are rarely called on. Instead they continue to grow.\n\nSo why don't people just stop eating foods high in fat and sugar if they know they can cause physical problems? Scientists are still searching for the answers, but it appears that our brains have been wired to encourage the consumption of calorie-rich foods, even at the expense of good health. Quite\nLine 9: simply, these foods bring us pleasure.\n\nOne recent study revealed that an area of the brain related to addiction and reward — the nucleus accumbens — lights up when a participant is shown calorie rich, fatty foods compared to healthy food.\n\nLine 13: Another area of the brain associated with pleasant tastes and reward, called the orbitofrontal cortex, is activated when we eat fatty foods.\n\nObesity experts say parents are struggling with a multitude of problems when it comes to their child's weight. They range from a lack of education about food, limited cooking skills, limited money\nLine 17: to buy healthy food, long working hours, easy access to snack food and pester power.\n\nAt the same time, people are increasingly living more sedentary lifestyles and therefore burning fewer calories. Studies have also shown that housewives in the 1950s were significantly slimmer than women today. This could be because their daily lives involved much more physical activity,\nLine 21: including walking more and having fewer labour-saving devices.\n\nTherefore, some scientists argue that the rise in obesity is a result of our bodies' inability to adapt to the changing environment.\n\nAccording to the NHS, another reason obesity is on the rise is because unhealthy eating habits are often passed down through families, due to a lack of good food education.\n\nUnless obesity is tackled, the government predicts that 60% of men, 50% of women and 25% of\nLine 27: children in Britain will be obese by 2050.",
+          "questions": [
+            {
+              "id": 31,
+              "type": "reading",
+              "question": "The primary idea of this text is...",
+              "options": ["A. Calories that human needs daily", "B. The danger of obesity in children", "C. Unhealthy eating habits", "D. Government's reaction"],
+              "correctAnswer": "C",
+              "explanation": "The passage focuses on why people eat unhealthily and the obesity crisis caused by unhealthy eating habits.",
+              "userAnswer": null
+            },
+            {
+              "id": 32,
+              "type": "reading",
+              "question": "What is the main topic of this passage?",
+              "options": ["A. Eating habits", "B. Obesity", "C. Education", "D. Food"],
+              "correctAnswer": "B",
+              "explanation": "The overarching topic is obesity — its causes, brain science, and predictions.",
+              "userAnswer": null
+            },
+            {
+              "id": 33,
+              "type": "reading",
+              "question": "How many calories that woman needs each day?",
+              "options": ["A. 2500", "B. 1950", "C. 2000", "D. 3000"],
+              "correctAnswer": "C",
+              "explanation": "Stated: 'a woman needs 2,000.'",
+              "userAnswer": null
+            },
+            {
+              "id": 34,
+              "type": "reading",
+              "question": "What is orbitofrontal cortex?",
+              "options": ["A. Area of Brain related addiction and reward", "B. Fatty food that can easily be accessed", "C. Eating habits that can be stopped in modern family", "D. Recent studies that show obesity cause and effect"],
+              "correctAnswer": "A",
+              "explanation": "Stated: 'Another area of the brain associated with pleasant tastes and reward, called the orbitofrontal cortex.'",
+              "userAnswer": null
+            },
+            {
+              "id": 35,
+              "type": "reading",
+              "question": "The author implies that...",
+              "options": ["A. Humans are lazy to do many activities", "B. Obesity problem is getting increased", "C. People can easily get snack and drink", "D. They have much money to buy healthy food"],
+              "correctAnswer": "B",
+              "explanation": "The passage implies obesity is rising through stats and government predictions (60% of men will be obese by 2050).",
+              "userAnswer": null
+            },
+            {
+              "id": 36,
+              "type": "reading",
+              "question": "We can change the word \"scarce\" in line 3 into...",
+              "options": ["A. Often", "B. Common", "C. Rare", "D. Never"],
+              "correctAnswer": "C",
+              "explanation": "'Scarce' = rare/not plentiful.",
+              "userAnswer": null
+            },
+            {
+              "id": 37,
+              "type": "reading",
+              "question": "The word \"sedentary\" in line 18 is closest in meaning to...",
+              "options": ["A. Active", "B. Moving", "C. Inactive", "D. Lazy"],
+              "correctAnswer": "C",
+              "explanation": "'Sedentary' = characterized by sitting; inactive.",
+              "userAnswer": null
+            },
+            {
+              "id": 38,
+              "type": "reading",
+              "question": "According to the passage the word \"this\" in line 20 refers to...",
+              "options": ["A. Obesity cases in present days", "B. Condition of housewives in 1950", "C. Obesity causes", "D. People unhealthy lifestyle"],
+              "correctAnswer": "B",
+              "explanation": "'This could be because their daily lives...' — 'this' refers to the previous statement about 1950s housewives being slimmer.",
+              "userAnswer": null
+            },
+            {
+              "id": 39,
+              "type": "reading",
+              "question": "The word \"their\" in line 20 refers to...",
+              "options": ["A. Children", "B. Housewives", "C. Obesity", "D. Studies"],
+              "correctAnswer": "B",
+              "explanation": "'their daily lives involved much more physical activity' — 'their' refers to housewives in the 1950s.",
+              "userAnswer": null
+            },
+            {
+              "id": 40,
+              "type": "reading",
+              "question": "In this passage...",
+              "options": ["A. An idea is presented and then disproved", "B. A concept is followed by examples", "C. A cause is followed by a result", "D. An argument is followed by facts"],
+              "correctAnswer": "D",
+              "explanation": "The passage argues about obesity causes and supports arguments with factual evidence and studies.",
+              "userAnswer": null
+            },
+            {
+              "id": 41,
+              "type": "reading",
+              "question": "The author's opinion of obesity is best described as...",
+              "options": ["A. Objective", "B. Unpleasant", "C. Pleased", "D. Optimistic"],
+              "correctAnswer": "A",
+              "explanation": "The author presents facts and research objectively without strong personal bias.",
+              "userAnswer": null
+            }
+          ]
+        },
+        {
+          "passageId": 4,
+          "title": "Dinosaur Extinction",
+          "text": "Line 1: Sixty-five million years ago the dinosaurs died out along with more than 50% of other life forms on the planet...\n[Full passage as transcribed from OCR - see analysis document]",
+          "questions": [
+            {
+              "id": 42,
+              "type": "reading",
+              "question": "The primary idea of this text is...",
+              "options": ["A. History of dinosaurs", "B. Dinosaur theories", "C. Dinosaur extinction", "D. Description of dinosaurs"],
+              "correctAnswer": "C",
+              "explanation": "The passage focuses on the extinction of dinosaurs and the various theories surrounding it.",
+              "userAnswer": null
+            },
+            {
+              "id": 43,
+              "type": "reading",
+              "question": "What is the main topic of this passage?",
+              "options": ["A. Discoveries", "B. Dinosaurs", "C. Climate change", "D. Mammals"],
+              "correctAnswer": "B",
+              "explanation": "The main topic is dinosaurs — specifically their extinction.",
+              "userAnswer": null
+            },
+            {
+              "id": 44,
+              "type": "reading",
+              "question": "When did dinosaur die?",
+              "options": ["A. Twenty thousand years ago", "B. Sixty million years ago", "C. Sixty five million years ago", "D. Twenty six million years ago"],
+              "correctAnswer": "C",
+              "explanation": "Stated: 'Sixty-five million years ago the dinosaurs died out.'",
+              "userAnswer": null
+            },
+            {
+              "id": 45,
+              "type": "reading",
+              "question": "What is Darwin Theory about the extinction?",
+              "options": ["A. It was caused by natural selection", "B. Meteoroid attacked earth million years ago", "C. Climate change interfered", "D. Massive disaster happened"],
+              "correctAnswer": "A",
+              "explanation": "The passage mentions 'Darwin's theory of evolution by natural selection' in context of extinction explanations.",
+              "userAnswer": null
+            },
+            {
+              "id": 46,
+              "type": "reading",
+              "question": "We can change the word \"evolved\" in line 28 into...",
+              "options": ["A. Developed", "B. Decreased", "C. Deconstructed", "D. Demolished"],
+              "correctAnswer": "A",
+              "explanation": "'Evolved' = developed/changed over time.",
+              "userAnswer": null
+            },
+            {
+              "id": 47,
+              "type": "reading",
+              "question": "The word \"viable\" in line 32 is closest in meaning to...",
+              "options": ["A. Vernacular", "B. Feasible", "C. Responsible", "D. Particular"],
+              "correctAnswer": "B",
+              "explanation": "'Viable' = feasible/capable of working/surviving.",
+              "userAnswer": null
+            },
+            {
+              "id": 48,
+              "type": "reading",
+              "question": "According to the passage the word \"others\" in line 21 refers to...",
+              "options": ["A. Dinosaurs", "B. Extinction", "C. Theories", "D. Mammals"],
+              "correctAnswer": "C",
+              "explanation": "'...some reasonable but others rather far-fetched' — 'others' refers to other theories.",
+              "userAnswer": null
+            },
+            {
+              "id": 49,
+              "type": "reading",
+              "question": "The word \"their\" in line 8 refers to...",
+              "options": ["A. Nature", "B. Earth", "C. Dinosaur", "D. Extinction"],
+              "correctAnswer": "C",
+              "explanation": "'Since their discovery in the nineteenth century' — 'their' refers to the dinosaurs' (discovery).",
+              "userAnswer": null
+            },
+            {
+              "id": 50,
+              "type": "reading",
+              "question": "The author's opinion of dinosaurus is best described as...",
+              "options": ["A. Objective", "B. Amuse", "C. Pleased", "D. Optimistic"],
+              "correctAnswer": "A",
+              "explanation": "The author presents various theories objectively without expressing personal amusement or pleasure.",
+              "userAnswer": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
